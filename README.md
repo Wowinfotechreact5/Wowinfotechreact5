@@ -1,7 +1,7 @@
 <!-- Professional Animated Intro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Engineer;Focused+on+Clean+Architecture+%26+Scalable+UI"
+    src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;Sandeep+Maurya;React.js+Engineer;Focused+on+Clean+Architecture+%26+Scalable+UI"
   />
 </p>
 
